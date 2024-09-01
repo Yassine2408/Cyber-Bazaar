@@ -1,0 +1,9 @@
+.profile {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.profile h1 {
+  margin-bottom: 20px;
+}

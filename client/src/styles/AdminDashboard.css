@@ -1,0 +1,36 @@
+.admin-dashboard {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.admin-dashboard h1 {
+  margin-bottom: 20px;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.product-list {
+  margin-top: 30px;
+}
+
+.product-item {
+  background-color: #f9f9f9;
+  border: 1px solid #ddd;
+  padding: 15px;
+  margin-bottom: 15px;
+  border-radius: 5px;
+}
+
+.product-item button {
+  background-color: #ff4136;
+}
+
+.product-item button:hover {
+  background-color: #ff1a1a;
+}
